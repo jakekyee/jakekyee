@@ -6,7 +6,7 @@ testing out the readme stuff, please ignore
 - Temp 2 [link](linktothing)
 
 ## Open Source
-- Python Sixel
+- [python-sixel-windows](https://github.com/jakekyee/python_sixel_windows)
 
 ## Hackathons
 - Temp 1
