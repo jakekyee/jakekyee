@@ -2,8 +2,10 @@
 testing out the readme stuff, please ignore
 
 ## Personal Projects
+### That I'm really happy with
 - Temp 1
 - Temp 2 [link](linktothing)
+### That I'm kinda happy with
 - Temp 2 [link](linktothing)
 - Temp 2 [link](linktothing)
 
