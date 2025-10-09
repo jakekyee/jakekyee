@@ -14,10 +14,10 @@ testing out the readme stuff, please ignore
 
 ## Hackathons
 
-- Productivity Pets [https://github.com/jakekyee/StormHacks-2024](linktothing) (Placed 1st in Adobe Sponsor / 450+ Participants) - StormHacks 2024
-- Birge Adventure [https://github.com/jakekyee/FallHacks23](linktothing) (Placed 3rd / 95 Participants) - FallHacks 2023
-- - See also : [https://jakeyee.com/leafderboard](Thing)
-- BankHacksAPI [https://github.com/jakekyee/DNSBANKHACKS2024](linktothing) (Placed 1st) - DNS BankHacks 2024
+- [Productivity Pets](https://github.com/jakekyee/StormHacks-2024) (Placed **1st** in Adobe Sponsor / 450+ Participants) - StormHacks 2024
+- [Birge Adventure](https://github.com/jakekyee/FallHacks23) (Placed **3rd** Overall/ 95 Participants) - FallHacks 2023
+- - See also : [https://jakeyee.com/leafderboard](https://jakeyee.com/leafderboard)
+- [BankHacksAPI](https://github.com/jakekyee/DNSBANKHACKS2024) (Placed **1st** / ?? Participants) - DNS BankHacks 2024
 - 
 =
 ```
