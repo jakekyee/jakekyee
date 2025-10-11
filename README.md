@@ -6,8 +6,10 @@ testing out the readme stuff, please ignore
 - Temp 1
 - Temp 2 [link](linktothing)
 ### That I'm kinda happy with
-- Temp 2 [link](linktothing)
-- Temp 2 [link](linktothing)
+- [TicTacTypo](https://github.com/jakekyee/TicTacTypo)
+- - Play against the bot in TicTacToe contained entirely within a font
+- [GPTYEE](https://github.com/jakekyee/GPTYEE)
+- - An early attempt at finetuning GPT2, done before the release of ChatGPT
 
 ## Open Source
 - [python-sixel-windows](https://github.com/jakekyee/python_sixel_windows)
