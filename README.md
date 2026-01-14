@@ -1,13 +1,17 @@
 # jakekyee
-testing out the readme stuff, please ignore
+Hi! :)
 
 ## Personal Projects
 ### That I'm really happy with
-- Temp 1
+- ([fisshbowl](https://github.com/jakekyee/fisshbowl))
+- - See who is trying to log in to my home server and with what
+  - [Analytics Dashboard](https://jakeyee.com/fisshbowl/)
 - Temp 2 [link](linktothing)
 ### That I'm kinda happy with
 - [TicTacTypo](https://github.com/jakekyee/TicTacTypo)
 - - Play against the bot in TicTacToe contained entirely within a font
+- [Second Person Poker](https://github.com/jakekyee/secondpersonpoker)
+- - Play a variant of poker against other people on the internet! The gimmick is that you see other people's cards, but not your own. 
 - [GPTYEE](https://github.com/jakekyee/GPTYEE)
 - - An early attempt at finetuning GPT2, done before the release of ChatGPT
 
