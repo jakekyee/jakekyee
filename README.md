@@ -7,6 +7,7 @@ Hi! :)
 - - See who is trying to log in to my home server and with what
   - [Analytics Dashboard](https://jakeyee.com/fisshbowl/)
 - Temp 2 [link](linktothing)
+- My custom keyboard! [Catfrency Rev 1](linktothing)
 ### That I'm kinda happy with
 - [TicTacTypo](https://github.com/jakekyee/TicTacTypo)
 - - Play against the bot in TicTacToe contained entirely within a font
