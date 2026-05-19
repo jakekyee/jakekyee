@@ -18,7 +18,8 @@ Hi! :)
 
 ## Open Source
 - [python-sixel-windows](https://github.com/jakekyee/python_sixel_windows)
-
+## Hardware - 
+- [python-sixel-windows](https://github.com/jakekyee/python_sixel_windows)
 ## Hackathons & Contests
 - [Huawei Research Competition #2 (AI Compilers)](https://github.com/jakekyee/huaweithing) (Placed **3rd** / 778 participants) - Huawei Research Competition #2 (AI Compilers)
 - [Productivity Pets](https://github.com/jakekyee/StormHacks-2024) (Placed **1st** in Adobe Sponsor / 450+ Participants) - StormHacks 2024
