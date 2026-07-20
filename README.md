@@ -1,6 +1,11 @@
 # jakekyee
 Hi! :)
 
+## Other accounts
+- https://github.com/jacobyee-intel
+- https://github.com/crocodilejake
+
+
 ## Personal Projects
 ### That I'm really happy with
 - ([fisshbowl](https://github.com/jakekyee/fisshbowl))
